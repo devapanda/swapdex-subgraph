@@ -8,7 +8,7 @@ This subgraph dynamically tracks any pair created by the uniswap factory. It tra
 - data on individual pairs and tokens,
 - data on transactions
 - data on liquidity providers
-- historical data on Uniswap, pairs or tokens, aggregated by day
+- historical data on Swapdex, pairs or tokens, aggregated by day
 
 ## Running Locally
 
