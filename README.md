@@ -1,4 +1,4 @@
-# swapdex V2 Subgraph
+# Swapdex V2 Subgraph
 
 [Uniswap](https://swapdex.net/) is a decentralized protocol for automated token exchange on Ethereum.
 
